@@ -1,4 +1,5 @@
 OpenCamera
 ==========
 
-Open camera project - multi-functional camera application for android.
+Open source camera app for Android. 
+Project ready to be imported in Android Studio.
